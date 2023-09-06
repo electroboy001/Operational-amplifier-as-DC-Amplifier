@@ -4,7 +4,7 @@ Operational amplifier as DC Amplifier
 <img width="622" alt="THUMB" src="https://user-images.githubusercontent.com/97245507/227776598-1792a357-ab0b-4278-a28f-cb0d45863cb5.png">
 
 Operational amplifiers are awesome, they are used to design a lot of circuits. And has a wide application in electronics. In previous part we have discussed the open loop gain/ comparator feature of an operation amplifier. And now we will see the use of operational amplifier to amplify a very small signal with adjustable gain. In end we will make a DC amplifier which can be tuned easily through the onboard potentiometers. All the circuitry embedded on a small piece of PCB, by the way you can use JLCPCB for PCB prototypes offering 5pcs of 2layer PCB in just $2.
-https://jlcpcb.com/see
+[https://jlcpcb.com/see](https://jlcpcb.com/?from=SSA)
 
 <img width="970" alt="ice_screenshot_20230310-212630" src="https://user-images.githubusercontent.com/97245507/227776841-2a3071d2-b192-4b0a-aa70-30be316f3594.png">
 
